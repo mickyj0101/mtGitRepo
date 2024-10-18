@@ -1,6 +1,6 @@
 # Title of repository
 ## First Subheading
 * First point
-* Second point
+* New Second Point
 * Third point
 ## Second Subheading
